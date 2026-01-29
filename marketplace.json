@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "groundwork-marketplace",
+  "version": "1.0.0",
+  "description": "Marketplace for Groundwork - comprehensive skills library for Claude Code",
+  "owner": {
+    "name": "etr"
+  },
+  "plugins": [
+    {
+      "name": "groundwork",
+      "description": "Comprehensive skills library: planning, design, TDD, debugging, collaboration patterns, and proven techniques. 31 skills, 7 agents, 11 commands.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Groundwork Contributors"
+      },
+      "source": "https://github.com/etr/groundwork",
+      "category": "productivity"
+    }
+  ]
+}

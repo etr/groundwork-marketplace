@@ -14,7 +14,10 @@
       "author": {
         "name": "Groundwork Contributors"
       },
-      "source": "https://github.com/etr/groundwork",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/etr/groundwork.git"
+      },
       "category": "productivity"
     }
   ]

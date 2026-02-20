@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "description": "A curated collection of Claude Code plugins",
   "owner": {
-    "name": "etr"
+    "name": "Sebastiano Merlino",
+    "email": "sebastiano@hey.com"
   },
   "plugins": [
     {
@@ -12,7 +13,8 @@
       "description": "Comprehensive skills library: planning, design, TDD, debugging, collaboration patterns, and proven techniques. 31 skills, 7 agents, 11 commands.",
       "version": "1.0.0",
       "author": {
-        "name": "Groundwork Contributors"
+        "name": "Sebastiano Merlino",
+        "email": "sebastiano@hey.com"
       },
       "source": {
         "source": "github",
@@ -27,7 +29,8 @@
       "description": "Structure-aware code search via MCP — ranked, deduplicated results that cut LLM token burn.",
       "version": "0.1.0",
       "author": {
-        "name": "etr"
+        "name": "Sebastiano Merlino",
+        "email": "sebastiano@hey.com"
       },
       "source": {
         "source": "url",

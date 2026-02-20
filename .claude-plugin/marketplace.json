@@ -15,8 +15,10 @@
         "name": "Groundwork Contributors"
       },
       "source": {
-        "source": "url",
-        "url": "https://github.com/etr/groundwork.git"
+        "source": "github",
+        "repo": "etr/groundwork",
+        "ref": "v1.0.0",
+        "sha": "ccfd46c1daf0ac09e400e0d9fbf9e9f478ae7f32"
       },
       "category": "productivity"
     },

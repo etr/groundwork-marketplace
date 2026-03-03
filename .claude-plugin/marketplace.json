@@ -27,7 +27,7 @@
     {
       "name": "wonk",
       "description": "Structure-aware code search via MCP — ranked, deduplicated results that cut LLM token burn.",
-      "version": "0.1.0",
+      "version": "4.0.0",
       "author": {
         "name": "Sebastiano Merlino",
         "email": "sebastiano@hey.com"

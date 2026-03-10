@@ -37,6 +37,20 @@
         "url": "https://github.com/etr/wonk-plugin.git"
       },
       "category": "code-search"
+    },
+    {
+      "name": "bells-and-whistles",
+      "description": "Play notification sounds and voice announcements when Claude Code stops or needs attention. 8 sound themes, male/female voices, 124 pre-generated WAV files included.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Sebastiano Merlino",
+        "email": "sebastiano@hey.com"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/etr/bells-and-whistles.git"
+      },
+      "category": "notifications"
     }
   ]
 }

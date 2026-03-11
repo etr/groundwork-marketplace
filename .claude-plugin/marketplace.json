@@ -40,15 +40,17 @@
     },
     {
       "name": "bells-and-whistles",
-      "description": "Play notification sounds and voice announcements when Claude Code stops or needs attention. 8 sound themes, male/female voices, 124 pre-generated WAV files included.",
-      "version": "1.0.0",
+      "description": "Play notification sounds and voice announcements when Claude Code stops or needs attention. 8 sound themes, US/UK accents, 4 voices (Stephen, Tiffany, Brian, Amy), number-only or full-sentence mode.",
+      "version": "1.1.0",
       "author": {
         "name": "Sebastiano Merlino",
         "email": "sebastiano@hey.com"
       },
       "source": {
-        "source": "url",
-        "url": "https://github.com/etr/bells-and-whistles.git"
+        "source": "github",
+        "repo": "etr/bells-and-whistles",
+        "ref": "v1.1.0",
+        "sha": "700765f815cae53b9b7367b1e5aa897d90d3178b"
       },
       "category": "notifications"
     }

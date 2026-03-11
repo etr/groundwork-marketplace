@@ -38,4 +38,4 @@ claude plugin update bells-and-whistles@groundwork-marketplace
 |--------|-------------|
 | **[groundwork](https://github.com/etr/groundwork)** | Comprehensive skills library: planning, design, TDD, debugging, collaboration patterns, and proven techniques. 31 skills, 7 agents, 11 commands. |
 | **[wonk](https://github.com/etr/wonk-plugin)** | Structure-aware code search via MCP — ranked, deduplicated results that cut LLM token burn. |
-| **[bells-and-whistles](https://github.com/etr/bells-and-whistles)** | Play notification sounds and voice announcements when Claude Code stops or needs attention. 8 sound themes included. |
+| **[bells-and-whistles](https://github.com/etr/bells-and-whistles)** | Play notification sounds and voice announcements when Claude Code stops or needs attention. 8 sound themes, US/UK accents, 4 voices. |

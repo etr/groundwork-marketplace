@@ -26,7 +26,7 @@
     },
     {
       "name": "wonk",
-      "description": "Structure-aware code search via MCP — ranked, deduplicated results that cut LLM token burn.",
+      "description": "Structure-aware code search — ranked, deduplicated results optimized for LLM agents.",
       "version": "4.11.0",
       "author": {
         "name": "Sebastiano Merlino",

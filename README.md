@@ -22,6 +22,7 @@ Once the marketplace is added, install any plugin by name:
 claude plugin install groundwork@groundwork-marketplace
 claude plugin install wonk@groundwork-marketplace
 claude plugin install bells-and-whistles@groundwork-marketplace
+claude plugin install skiller@groundwork-marketplace
 ```
 
 ## Updating Plugins
@@ -30,6 +31,7 @@ claude plugin install bells-and-whistles@groundwork-marketplace
 claude plugin update groundwork@groundwork-marketplace
 claude plugin update wonk@groundwork-marketplace
 claude plugin update bells-and-whistles@groundwork-marketplace
+claude plugin update skiller@groundwork-marketplace
 ```
 
 ## Available Plugins
@@ -39,3 +41,4 @@ claude plugin update bells-and-whistles@groundwork-marketplace
 | **[groundwork](https://github.com/etr/groundwork)** | Comprehensive skills library: planning, design, TDD, debugging, collaboration patterns, and proven techniques. 31 skills, 7 agents, 11 commands. |
 | **[wonk](https://github.com/etr/wonk-plugin)** | Structure-aware code search — ranked, deduplicated results optimized for LLM agents. |
 | **[bells-and-whistles](https://github.com/etr/bells-and-whistles)** | Play notification sounds and voice announcements when Claude Code stops or needs attention. 8 sound themes, US/UK accents, 4 voices, mute/unmute per-tab or globally. |
+| **[skiller](https://github.com/etr/skiller)** | Instruments Claude Code sessions and analyzes behavioral gaps to suggest improvements. 2 skills, 1 agent, 2 commands. |

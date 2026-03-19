@@ -57,7 +57,7 @@
     {
       "name": "skiller",
       "description": "Instruments Claude Code sessions and analyzes behavioral gaps to suggest improvements. 2 skills, 1 agent, 2 commands.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "author": {
         "name": "Sebastiano Merlino",
         "email": "sebastiano@hey.com"
@@ -66,7 +66,7 @@
         "source": "github",
         "repo": "etr/skiller",
         "ref": "master",
-        "sha": "035f93389fcf46dd5e84f5fed4fff60641d7aedb"
+        "sha": "6772f0347ac5797723434b76256c8888be88da13"
       },
       "category": "instrumentation"
     }

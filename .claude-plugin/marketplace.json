@@ -41,7 +41,7 @@
     {
       "name": "bells-and-whistles",
       "description": "Play notification sounds and voice announcements when Claude Code stops or needs attention. 8 sound themes, US/UK accents, 4 voices, mute/unmute per-session or globally.",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "author": {
         "name": "Sebastiano Merlino",
         "email": "sebastiano@hey.com"
@@ -49,8 +49,8 @@
       "source": {
         "source": "github",
         "repo": "etr/bells-and-whistles",
-        "ref": "v1.3.0",
-        "sha": "f078529589c5cc0bc1b1026d006b349e205e4115"
+        "ref": "v1.3.1",
+        "sha": "0f29d01ffa98e54d2dd801215f1d9bf00479dde2"
       },
       "category": "notifications"
     },

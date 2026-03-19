@@ -42,6 +42,6 @@ claude plugin update groundwork-statusline@groundwork-marketplace
 |--------|-------------|
 | **[groundwork](https://github.com/etr/groundwork)** | Comprehensive skills library: planning, design, TDD, debugging, collaboration patterns, and proven techniques. 31 skills, 7 agents, 11 commands. |
 | **[wonk](https://github.com/etr/wonk-plugin)** | Structure-aware code search — ranked, deduplicated results optimized for LLM agents. |
-| **[bells-and-whistles](https://github.com/etr/bells-and-whistles)** | Play notification sounds and voice announcements when Claude Code stops or needs attention. 8 sound themes, US/UK accents, 4 voices, mute/unmute per-tab or globally. |
+| **[bells-and-whistles](https://github.com/etr/bells-and-whistles)** | Play notification sounds and voice announcements when Claude Code stops or needs attention. 8 sound themes, US/UK accents, 4 voices, mute/unmute per-session or globally. |
 | **[skiller](https://github.com/etr/skiller)** | Instruments Claude Code sessions and analyzes behavioral gaps to suggest improvements. 2 skills, 1 agent, 2 commands. |
 | **[groundwork-statusline](https://github.com/etr/groundwork-statusline)** | 3-line statusline showing model/effort, context window usage with API utilization, and git/project info. 2 commands. |

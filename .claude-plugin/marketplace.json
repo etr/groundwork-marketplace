@@ -27,14 +27,16 @@
     {
       "name": "wonk",
       "description": "Structure-aware code search — ranked, deduplicated results optimized for LLM agents.",
-      "version": "4.13.0",
+      "version": "4.14.0",
       "author": {
         "name": "Sebastiano Merlino",
         "email": "sebastiano@hey.com"
       },
       "source": {
-        "source": "url",
-        "url": "https://github.com/etr/wonk-plugin.git"
+        "source": "github",
+        "repo": "etr/wonk-plugin",
+        "ref": "v4.14.0",
+        "sha": "f12c895d7e69d025df61433c67bcdd2b6c4d708f"
       },
       "category": "code-search"
     },

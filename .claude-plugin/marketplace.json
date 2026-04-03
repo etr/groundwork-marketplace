@@ -75,7 +75,7 @@
     {
       "name": "groundwork-statusline",
       "description": "3-line statusline showing model/effort, context window usage with API utilization, and git/project info. 2 commands.",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "author": {
         "name": "Sebastiano Merlino",
         "email": "sebastiano@hey.com"
@@ -83,8 +83,8 @@
       "source": {
         "source": "github",
         "repo": "etr/groundwork-statusline",
-        "ref": "v1.2.1",
-        "sha": "5e861fdf280cbbb078766286fa342e3b810c9ff5"
+        "ref": "v1.2.2",
+        "sha": "b227e4160c211f4aec3682c948b25d226d944f2f"
       },
       "category": "statusline"
     }

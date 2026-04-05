@@ -24,6 +24,7 @@ claude plugin install wonk@groundwork-marketplace
 claude plugin install bells-and-whistles@groundwork-marketplace
 claude plugin install skiller@groundwork-marketplace
 claude plugin install groundwork-statusline@groundwork-marketplace
+claude plugin install minion@groundwork-marketplace
 ```
 
 ## Updating Plugins
@@ -34,6 +35,7 @@ claude plugin update wonk@groundwork-marketplace
 claude plugin update bells-and-whistles@groundwork-marketplace
 claude plugin update skiller@groundwork-marketplace
 claude plugin update groundwork-statusline@groundwork-marketplace
+claude plugin update minion@groundwork-marketplace
 ```
 
 ## Available Plugins
@@ -45,3 +47,4 @@ claude plugin update groundwork-statusline@groundwork-marketplace
 | **[bells-and-whistles](https://github.com/etr/bells-and-whistles)** | Play notification sounds and voice announcements when Claude Code stops or needs attention. 8 sound themes, US/UK accents, 4 voices, mute/unmute per-session or globally. |
 | **[skiller](https://github.com/etr/skiller)** | Instruments Claude Code sessions and analyzes behavioral gaps to suggest improvements. 2 skills, 1 agent, 2 commands. |
 | **[groundwork-statusline](https://github.com/etr/groundwork-statusline)** | 3-line statusline showing model/effort, context window usage with API utilization, and git/project info. 2 commands. |
+| **[minion](https://github.com/etr/minion)** | Delegate tasks to any AI model via Pi CLI without leaving Claude Code. Define reusable minion files for repeatable delegation patterns. |

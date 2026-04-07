@@ -10,8 +10,8 @@
   "plugins": [
     {
       "name": "groundwork",
-      "description": "Comprehensive skills library: planning, design, TDD, debugging, collaboration patterns, and proven techniques. 24 skills, 14 agents, 18 commands.",
-      "version": "1.2.0",
+      "description": "Comprehensive skills library: planning, design, TDD, debugging, collaboration patterns, and proven techniques. 30 skills, 16 agents, 25 commands.",
+      "version": "2.0.0",
       "author": {
         "name": "Sebastiano Merlino",
         "email": "sebastiano@hey.com"
@@ -19,8 +19,8 @@
       "source": {
         "source": "github",
         "repo": "etr/groundwork",
-        "ref": "v1.2.0",
-        "sha": "cfaa09d9dae65abda5400f5537e6687aa31420c7"
+        "ref": "v2.0.0",
+        "sha": "d83525d573d85cb9a651bd4e5414b49aa3e9868e"
       },
       "category": "productivity"
     },

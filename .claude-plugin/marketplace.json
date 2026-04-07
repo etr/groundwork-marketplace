@@ -91,7 +91,7 @@
     {
       "name": "minion",
       "description": "Delegate tasks to any AI model via Pi CLI without leaving Claude Code. Define reusable minion files, or enable auto-minion mode for automatic category-based prompt routing.",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "author": {
         "name": "Sebastiano Merlino",
         "email": "sebastiano@hey.com"
@@ -99,8 +99,8 @@
       "source": {
         "source": "github",
         "repo": "etr/minion",
-        "ref": "v0.2.0",
-        "sha": "1ee9ed57c0f8df37b3486b7e19cd39dc0dab0023"
+        "ref": "v0.3.0",
+        "sha": "b34aafbd1622fb48b0bcdc2da5a8ebb72b5fd6a7"
       },
       "category": "delegation"
     }

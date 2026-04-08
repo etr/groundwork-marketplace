@@ -11,7 +11,7 @@
     {
       "name": "groundwork",
       "description": "Comprehensive skills library: planning, design, TDD, debugging, collaboration patterns, and proven techniques. 30 skills, 16 agents, 25 commands.",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "author": {
         "name": "Sebastiano Merlino",
         "email": "sebastiano@hey.com"
@@ -19,8 +19,8 @@
       "source": {
         "source": "github",
         "repo": "etr/groundwork",
-        "ref": "v2.0.0",
-        "sha": "d83525d573d85cb9a651bd4e5414b49aa3e9868e"
+        "ref": "v2.1.0",
+        "sha": "87ccbe6201764368a799dc3226395e179a0e0545"
       },
       "category": "productivity"
     },
@@ -75,7 +75,7 @@
     {
       "name": "groundwork-statusline",
       "description": "3-line statusline showing model/effort, context window usage with API utilization, and git/project info. 2 commands.",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "author": {
         "name": "Sebastiano Merlino",
         "email": "sebastiano@hey.com"
@@ -83,8 +83,8 @@
       "source": {
         "source": "github",
         "repo": "etr/groundwork-statusline",
-        "ref": "v1.2.2",
-        "sha": "b227e4160c211f4aec3682c948b25d226d944f2f"
+        "ref": "v1.2.3",
+        "sha": "7d39f09efaaa724dc94b9cba155bfaf663b136c1"
       },
       "category": "statusline"
     },

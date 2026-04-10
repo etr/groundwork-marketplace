@@ -103,6 +103,24 @@
         "sha": "b34aafbd1622fb48b0bcdc2da5a8ebb72b5fd6a7"
       },
       "category": "delegation"
+    },
+    {
+      "name": "threads-analytics",
+      "description": "Fetch Threads (Meta) posting activity and let Claude analyze engagement stats, classify topics, and generate posting recommendations.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Sebastiano Merlino",
+        "email": "sebastiano@hey.com"
+      },
+      "source": {
+        "source": "github",
+        "repo": "etr/threads-analytics",
+        "ref": "v0.1.0",
+        "sha": "a5571e5d0057dc7ca36a3a173a443566fabd4f03"
+      },
+      "category": "personal",
+      "license": "MIT",
+      "keywords": ["threads", "meta", "analytics", "social-media", "engagement"]
     }
   ]
 }

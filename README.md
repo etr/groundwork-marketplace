@@ -26,6 +26,7 @@ claude plugin install skiller@groundwork-marketplace
 claude plugin install groundwork-statusline@groundwork-marketplace
 claude plugin install minion@groundwork-marketplace
 claude plugin install threads-analytics@groundwork-marketplace
+claude plugin install gerunds@groundwork-marketplace
 ```
 
 ## Updating Plugins
@@ -50,3 +51,4 @@ claude plugin update minion@groundwork-marketplace
 | **[groundwork-statusline](https://github.com/etr/groundwork-statusline)** | 3-line statusline showing model/effort, context window usage with API utilization, and git/project info. 2 commands. |
 | **[minion](https://github.com/etr/minion)** | Delegate tasks to any AI model via Pi CLI without leaving Claude Code. Define reusable minion files for repeatable delegation patterns. |
 | **[threads-analytics](https://github.com/etr/threads-analytics)** | Fetch Threads (Meta) posting activity and let Claude analyze engagement stats, classify topics, and generate posting recommendations. |
+| **[gerunds](https://github.com/etr/gerunds)** | A Claude Code plugin of writers' skills: skeletonize-chapter builds a faithful structural skeleton of a manuscript chapter, and developmental-edit produces an editorial letter plus annotated HTML — both under a non-invention firewall. |

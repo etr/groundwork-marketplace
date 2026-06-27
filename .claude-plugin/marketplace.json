@@ -125,7 +125,7 @@
     {
       "name": "gerunds",
       "description": "A Claude Code plugin of writers' skills: skeletonize-chapter builds a faithful structural skeleton of a manuscript chapter, and developmental-edit produces an editorial letter plus annotated HTML — both under a non-invention firewall that forbids fabricating content not present in the source.",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "author": {
         "name": "Sebastiano Merlino",
         "email": "sebastiano@hey.com"
@@ -133,8 +133,8 @@
       "source": {
         "source": "github",
         "repo": "etr/gerunds",
-        "ref": "v0.2.0",
-        "sha": "56ccf472d72a0ad833c686dd5af4ed652ae8911b"
+        "ref": "v0.2.1",
+        "sha": "6ab296912d445ca8f9478f25a5170a68d829a6b9"
       },
       "category": "writing"
     }
